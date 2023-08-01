@@ -1,0 +1,55 @@
+/*estilos básicos para el cuerpo de la página*/
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Estilos para el encabezado (header) */
+header {
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Estilos para el contenido principal (main) */
+main {
+    max-width: 600px;   /* Ancho máximo del contenido principal */
+    margin: 0 auto;     /* Centrar el contenido principal en la página */
+}
+
+/* Estilos para cada artículo (article) */
+article {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  /* Sombra suave para dar relieve a los artículos */
+}
+
+/* Estilos para encabezados h1 y h2 */
+h1, h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Estilos para listas no ordenadas (ul) */
+ul {
+    padding-left: 20px;
+    margin: 0;
+}
+
+/* Estilos para imágenes (img) */
+img {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+/* Estilos para párrafos (p) */
+p {
+    text-align: justify;   
+}
