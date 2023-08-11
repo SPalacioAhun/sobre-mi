@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hwb(293 7% 28% / 0.596);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    color: blue; /* Cambiar el color a azul */
+    text-decoration: underline; /* Agregar subrayado */
+    text-align: center; /* Centrar el texto */
+    margin-bottom: 20px; /* Espacio inferior de 20px */
+  }
+
+
+.calculator {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+input, select {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+#resultadoBox {
+    border: 2px solid #333;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.operando1, .operando2, .operator {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: rgb(197, 195, 195);
+  }
+
+  
