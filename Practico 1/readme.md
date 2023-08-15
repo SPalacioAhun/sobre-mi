@@ -78,9 +78,7 @@ Durante la implementación y las pruebas, se identificaron los siguientes errore
 
 Si encuentras algún error o tienes sugerencias para mejorar esta calculadora, te invitamos a contribuir al proyecto. Por favor, consulta el archivo `CONTRIBUTING.md` para obtener más detalles sobre cómo contribuir y enviar solicitudes de extracción.
 
-## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT. Puedes encontrar más detalles en el archivo `LICENSE.md`.
 
 ## Expresiones de Gratitud 🙏
 
