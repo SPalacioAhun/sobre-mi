@@ -13,7 +13,7 @@ Asegúrate de tener un navegador web moderno instalado en tu dispositivo. Este j
 ### Instalación y Ejecución 🔧
 
 1. Clona o descarga este repositorio en tu máquina local utilizando el siguiente comando:
-git clone https://github.com/tu-usuario/piedra-papel-tijera.git
+git clone https://github.com/SPalacioAhun/sobre-mi.git
 
 
 2. Abre el archivo `index.html` en tu navegador web para comenzar a jugar.
@@ -54,7 +54,7 @@ Este proyecto se ha construido utilizando las siguientes tecnologías y herramie
 
 ## Autor ✒️
 
-* **Santiago Palacio** - *Desarrollo Inicial* - [Perfil en GitHub](https://github.com/tu-usuario)
+* **Santiago Palacio** - *Desarrollo Inicial* - [Perfil en GitHub](https://github.com/SPalacioAhun)
 
 
 
@@ -66,4 +66,4 @@ Este proyecto se ha construido utilizando las siguientes tecnologías y herramie
 
 ---
 
-⌨️ con ❤️ por [Santiago Palacio](https://github.com/tu-usuario) 😊
+⌨️ con ❤️ por [Santiago Palacio](https://github.com/SPalacioAhun) 😊
